@@ -36,7 +36,6 @@ I am a Full Stack Developer from India.
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pravinpatilcode&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravinpatilcode&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinpatilcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pravinpatilcode/pravinpatilcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
