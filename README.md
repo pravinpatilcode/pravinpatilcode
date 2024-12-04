@@ -31,13 +31,13 @@ I am a Software Developer, Data Analyst from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-   <img src="#" title="Python" **alt="Python" width="40" height="40"/>
-   <img src="#" title="Machine Learning" **alt="Machine Learning" width="40" height="40"/>
-   <img src="#" title="Tableau" **alt="Tableau" width="40" height="40"/>
-   <img src="#" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
-   <img src="#" title="Statistics" **alt="Statistics" width="40" height="40"/>
-   <img src="#" title="Advance Excel" **alt="Advance Excel" width="40" height="40"/>
-   <img src="#" title=" Exploratory Data Analysis" **alt=" Exploratory Data Analysis" width="40" height="40"/>
+   Python
+   Machine Learning
+   Tableau
+   PowerBI
+   Statistics
+   Advance Excel
+   Exploratory Data Analysis
    
    
 </div>
