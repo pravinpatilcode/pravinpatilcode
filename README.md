@@ -5,7 +5,7 @@
 ---
 
 ### :woman_technologist: About Me : I Am Pravin Patil
-I am a Full Stack Developer from India.
+I am a Software Developer, Data Analyst from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
